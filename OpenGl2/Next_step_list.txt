@@ -1,0 +1,1 @@
+1.research how to use container type map,to let class map can read more fast
