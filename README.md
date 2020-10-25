@@ -2,3 +2,4 @@
 一般常見的方法好像是只把表層做視覺化。
 https://www.youtube.com/watch?v=7caHj_gJSqU
 成果影片
+![](https://github.com/angusfang/my_minecraft/blob/master/result.gif)
